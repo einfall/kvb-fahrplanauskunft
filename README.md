@@ -2,7 +2,7 @@
 
 Custom Integration + Lovelace Card für KVB-/VRS-Fahrplanauskünfte in Home Assistant.
 
-[![Open your Home Assistant instance and open this repository inside HACS.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=einfall&repository=kvb-fahrplanauskunft-card&category=integration)
+[![Open your Home Assistant instance and open this repository inside HACS.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=einfall&repository=kvb-fahrplanauskunft&category=integration)
 
 ## Funktionen
 
