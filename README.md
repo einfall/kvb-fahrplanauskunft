@@ -10,7 +10,3 @@ Custom Integration + Lovelace Card für KVB-/VRS-Fahrplanauskünfte in Home Assi
 - Scrollbare Trefferliste
 - Journey-Abfrage mit Datum und Uhrzeit
 - „Jetzt“, „Vorher“ und „Next“
-- KVB API Proxy über Home Assistant
-- Debug-Ausgaben im Home-Assistant-Log
-- KVB Brand-Logo
-- Kompakte Lovelace Card
